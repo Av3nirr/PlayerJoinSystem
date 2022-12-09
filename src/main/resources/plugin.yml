@@ -1,0 +1,10 @@
+name: PlayerJoinSystem
+version: '${project.version}'
+main: fr.av3nirr.Main
+api-version: 1.18
+commands:
+  p:
+    description: 3Souhaiter la bienvenue à un joueur !
+    aliases:
+      - player
+    usage: /p <player>
